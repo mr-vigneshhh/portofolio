@@ -14,7 +14,7 @@ export default function Footer() {
               VIGNESH<span className="text-xs align-super ml-1" style={{ color: '#38BDF8' }}>®</span>
             </h3>
             <p className="font-body text-xs tracking-[0.2em] uppercase" style={{ color: '#A6B1C2' }}>
-              Vignesh Builds | AI Enthusiast | Project Builder
+              AI Explorer | AI Enthusiast & Project Builder
             </p>
           </div>
 
